@@ -20,6 +20,6 @@ int main() {
     cout << "N (C-style cast)   = " << N_c << endl;
     cout << "N (static_cast)    = " << N_cpp << endl;
     cout << "Повних хвилин з початку останньої години: " << minutes << endl;
-
     return 0;
 }
+// Оновлення коду для лабораторної роботи 7
